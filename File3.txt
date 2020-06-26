@@ -1,0 +1,3 @@
+feature logic 2
+
+change to fix bug 2
