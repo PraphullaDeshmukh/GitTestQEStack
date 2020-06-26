@@ -4,3 +4,5 @@ change to fix bug 2
 
 trying to Pull Repor
 change made by Team mate for remote 
+
+Change by Team mate to check Conflict to check rebase
